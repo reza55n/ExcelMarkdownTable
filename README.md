@@ -23,5 +23,5 @@ Now you can save this document as `Excel Macro-Enabled Workbook (*.xlsm)` to use
 
 
 ## Convert back from Markdown to Excel
-(Tested on Firefox)  
+*(Tested on Firefox)*  
 To convert cells back from Markdown to Excel, you can open rendered table in browser, simply hold `Ctrl`, drag and select desired range, then press `Ctrl+C` to copy it as cells.
