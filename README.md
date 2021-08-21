@@ -17,7 +17,7 @@ Now you can save this document as `Excel Macro-Enabled Workbook (*.xlsm)` to use
 
 ## How to use
 1. Select desired range
-2. Press Alt+F8 (Fn+F8) to open Macro dialog box
+2. Press `Alt+F8` (`Fn+F8` on Mac) to open Macro dialog box
 3. Select `...excelMarkdownTable` and click Run
 4. Now Markdown is copied to clipboard!
 
